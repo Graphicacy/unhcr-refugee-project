@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/unhcr-refugee-project/static/css/main.26a38083.chunk.css",
+    "main.js": "/unhcr-refugee-project/static/js/main.b8bfc2b5.chunk.js",
+    "main.js.map": "/unhcr-refugee-project/static/js/main.b8bfc2b5.chunk.js.map",
+    "runtime-main.js": "/unhcr-refugee-project/static/js/runtime-main.3b4935ce.js",
+    "runtime-main.js.map": "/unhcr-refugee-project/static/js/runtime-main.3b4935ce.js.map",
+    "static/css/2.0bb522a0.chunk.css": "/unhcr-refugee-project/static/css/2.0bb522a0.chunk.css",
+    "static/js/2.c4570168.chunk.js": "/unhcr-refugee-project/static/js/2.c4570168.chunk.js",
+    "static/js/2.c4570168.chunk.js.map": "/unhcr-refugee-project/static/js/2.c4570168.chunk.js.map",
+    "index.html": "/unhcr-refugee-project/index.html",
+    "precache-manifest.bca31ba9cc95b30f80fa3474fd236139.js": "/unhcr-refugee-project/precache-manifest.bca31ba9cc95b30f80fa3474fd236139.js",
+    "service-worker.js": "/unhcr-refugee-project/service-worker.js",
+    "static/css/2.0bb522a0.chunk.css.map": "/unhcr-refugee-project/static/css/2.0bb522a0.chunk.css.map",
+    "static/css/main.26a38083.chunk.css.map": "/unhcr-refugee-project/static/css/main.26a38083.chunk.css.map",
+    "static/js/2.c4570168.chunk.js.LICENSE.txt": "/unhcr-refugee-project/static/js/2.c4570168.chunk.js.LICENSE.txt",
+    "static/media/filter.svg": "/unhcr-refugee-project/static/media/filter.7200c1f8.svg",
+    "static/media/refugees.csv": "/unhcr-refugee-project/static/media/refugees.ccb81835.csv",
+    "static/media/search.svg": "/unhcr-refugee-project/static/media/search.67e4e3d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b4935ce.js",
+    "static/css/2.0bb522a0.chunk.css",
+    "static/js/2.c4570168.chunk.js",
+    "static/css/main.26a38083.chunk.css",
+    "static/js/main.b8bfc2b5.chunk.js"
+  ]
+}
