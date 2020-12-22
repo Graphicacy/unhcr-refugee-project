@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100vw;
+  height: 100vh;
+}
+
+#map {
+  position: absolute;
+  width: 100vw;
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  overflow-y: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.tooltip {
+  position: absolute;
+  margin: 8px;
+  font-size: 10px;
+  z-index: 9;
+  pointer-events: none;
+  width: 325px;
+  max-height: 365px;
+  background: #ffffff 0 0 no-repeat padding-box;
+  box-shadow: 0 3px 6px #00000029;
+  opacity: 0.95;
+}
+
+.tooltip_subheader {
+  width: 325px;
+  height: 16px;
+  text-align: left;
+  font: normal normal normal 14px/16px Helvetica Neue;
+  color: #343131;
+  text-transform: uppercase;
+  opacity: 1;
+  padding-left: 19px;
+  padding-top: 25px;
+}
+
+.tooltip_header_title {
+  padding-top: 12px;
+  padding-left: 19px;
+  font: normal normal bold 24px/29px Helvetica Neue;
+  letter-spacing: 0;
+}
+
+.tooltip_header_subtitle {
+  padding-left: 19px;
+  padding-top: 5px;
+  font: normal normal normal 18px/22px Helvetica Neue;
+  letter-spacing: 0;
+}
+
+.line {
+  border: 1px solid #8f0a09;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.label {
+  padding-left: 10px;
+  padding-right: 14px;
+  color: #8f0a09;
+  display: inline-block;
+}
